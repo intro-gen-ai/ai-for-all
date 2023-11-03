@@ -49,7 +49,7 @@ When asking (more personal?) questions, does the model seem to hold a better gra
 Am I proud of the final product? If I had this resource when applying to colleges as a first-generation student, would I have felt more prepared? When I feel insecure in myself as a BIPOC in a PWI, does this resource help me? As a community organizer, is this a helpful resource for creating/managing campaigns?
 
 ### Scenarios 
-Use my own exam questions 
+I will be using my own exam questions from classes where I've read some of the materials I trained the model on and evaluate the responses to measure the effectiveness of the model. 
 
 
 ## //The following will be done after my project is over
