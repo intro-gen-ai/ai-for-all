@@ -9,15 +9,23 @@ Shalini Thinakaran, shalini.a.thinakaran@vanderbilt.edu, thinaksa
 ### Description of Problem/Opportunity
 As of right now, there are no machine learning models whose trainings are focused on readings that include how power dynamics effect our society. There is nothing out there where I can recieve responses that are obviously "understanding" of social dynamics that marginalized communitites are subjected to without being prompted to recognize those dynamics. 
 
+Research question: Can we improve LLama V2 to understand social dynamics using QLoRA?
+
+As of right now, there's not a deep understanding on whether or not QLoRA (Low-Rank Adaptation of Large Language Models) is an efficient form of fine-tuning ML models. This purpose of this project will be exploring the limits of this new technique using the complex topics of social dynamics for marginalized communitites. 
 
 ### Proposed Solution/Approach
-I will be fine tuning a machine learning model using documents written by people like James Baldwin and Angela Davis that use literature as a conduit for social justice to create responses that make the user feel it is somewhat "aware" of the social implications of class, race, gender, ect. Additionally, using a mixture of personal narratives and historical context will hopefully allow for the model to present responses that are inclined to better suit the some needs BIPOC people might have.
+I will be fine tuning a machine learning model using documents written by people like James Baldwin and Angela Davis that use literature as a conduit for social justice to create responses that make the user feel it is somewhat "aware" of the social implications of class, race, gender, ect. Additionally, using a mixture of personal narratives and historical context will hopefully allow for the model to present responses that are inclined to better suit the some needs BIPOC people might have. 
+
+Because the training of a machine learning model means having the model "guess" the end of a sentence or the next chunck of a paragraph (context learning), I'll be using dissertations or papers that reflect on the themes that appear within the personal narratives. This will cut out the "thinking" that the model is unable to do, especially with just the personal narratives. 
 
 
 ### Project Outline and Timeline
 * Decide which model to fine-tune
+  * Llama V2 
 * Choose the materials 
   * Must be a mixture of literature, historical context, and personal narrative
+  * Clean the materials (delete blank pages, publishing info, ect.)
+  * Upload these materials to HuggingFace as datasets
 * Fine-tune the model
 
 ## Goals of project 
@@ -31,6 +39,7 @@ Extensive testing to ensure that the model is as effective as possible.
 
 ## Project Metrics 
 
+
 ### Metric 1
 When asking (more personal?) questions, does the model seem to hold a better grasp on social issues?
 * "what are some realities I should be prepared for as a fg college student?"
@@ -38,6 +47,9 @@ When asking (more personal?) questions, does the model seem to hold a better gra
 
 ### Metric 2
 Am I proud of the final product? If I had this resource when applying to colleges as a first-generation student, would I have felt more prepared? When I feel insecure in myself as a BIPOC in a PWI, does this resource help me? As a community organizer, is this a helpful resource for creating/managing campaigns?
+
+### Scenarios 
+Use my own exam questions 
 
 
 ## //The following will be done after my project is over
