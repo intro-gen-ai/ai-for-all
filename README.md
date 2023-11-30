@@ -11,7 +11,7 @@ As of right now, there are no machine learning models whose trainings are focuse
 
 Research question: Can we improve LLama V2 to understand social dynamics using QLoRA?
 
-As of right now, there's not a deep understanding on whether or not QLoRA (Low-Rank Adaptation of Large Language Models) is an efficient form of fine-tuning ML models. This purpose of this project will be exploring the limits of this new technique using the complex topics of social dynamics for marginalized communitites. 
+Currently, there's not a deep understanding on whether or not QLoRA (Low-Rank Adaptation of Large Language Models) is an efficient form of fine-tuning ML models. This purpose of this project will be exploring the limits of this new technique using the complex topics of social dynamics for marginalized communitites. 
 
 ### Proposed Solution/Approach
 I will be fine tuning a machine learning model using documents written by people like James Baldwin and Angela Davis that use literature as a conduit for social justice to create responses that make the user feel it is somewhat "aware" of the social implications of class, race, gender, ect. Additionally, using a mixture of personal narratives and historical context will hopefully allow for the model to present responses that are inclined to better suit the some needs BIPOC people might have. 
@@ -25,7 +25,7 @@ Because the training of a machine learning model means having the model "guess" 
 * Choose the materials 
   * Must be a mixture of literature, historical context, and personal narrative
   * Clean the materials (delete blank pages, publishing info, ect.)
-  * Upload these materials to HuggingFace as datasets
+  * Upload these materials to [HuggingFace as datasets](https://huggingface.co/docs/datasets/v1.16.0/upload_dataset.html#:~:text=Upload%20your%20files,lines%2C%20text%2C%20and%20Parquet.)
 * Fine-tune the model
 
 ## Goals of project 
@@ -39,6 +39,18 @@ Extensive testing to ensure that the model is as effective as possible.
 
 ## Project Metrics 
 
+### Metric 1
+.....
+What Chat GPT responded with:
+
+Why this is not enough:
+
+What Claude.ai repsonded with:
+
+Why this is not enough:
+
+
+### Metric 2
 
 ### Metric 1
 When asking (more personal?) questions, does the model seem to hold a better grasp on social issues?
