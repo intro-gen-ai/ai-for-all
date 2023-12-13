@@ -1,10 +1,22 @@
 # ai-for-all
 Changing the notion of who AI is for
 
-[Try the app here](https://huggingface.co/spaces/shalinialisha/shalinialisha-ai-for-all)
-
 ## Project Creator
 Shalini Thinakaran, shalini.a.thinakaran@vanderbilt.edu, thinaksa
+
+## Usage of AI Assistant 
+
+
+* Link to Video Explanation:
+[Click here to watch](https://github.com/intro-gen-ai/ai-for-all/assets/123770923/8ed42670-c866-4c73-acea-03460bf47537)
+* Link to AI Assistant:
+  [Try the app here](https://huggingface.co/spaces/shalinialisha/shalinialisha-ai-for-all)
+### Example inputs and prompts: 
+ * barriers exist in our society
+ * prejudice or discrimination in aspects of public life like housing, jobs, or education
+ * Does everyone have the same experience interacting with law enforcement in this country
+ * “if you just work hard, you can achieve the same as anyone else here”
+
 
 ## Project Proposal 
 
@@ -73,9 +85,7 @@ AI-for-all:
 <img width="450" alt="yes_ai" src="https://github.com/intro-gen-ai/ai-for-all/assets/123770923/03ff3653-7400-4326-8470-8f2d48940808">
 
 ## Self-Evaluation
-**Due December 8, 11:59pm**
 
-300-1000 words
 
 Address each of the goals, and assess each of the metrics. Include a statement on each on what you achieved or did not achieve, give support for your assessments.
 
@@ -90,9 +100,6 @@ AI for All demonstrates improved coherence, relevance, and style when generating
 
 
 ## Reflection on Learning
-**Due December 8, 11:59pm**
-
-500-1000 words
 
 What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
 
@@ -105,9 +112,6 @@ These takeaways have made me even more passionate about continuing my AI educati
 Projects like AI for All are just a start, but they teach core skills I will need to drive change. My dream is for AI to amplify all voices equally while resolving hierarchies of human values. We have significant breakthroughs still to make, which is why I am committed to learning all I can in this emerging field. By considering inclusivity from day one, I believe we can get there.
 
 ## What's Next?
-**Due December 8, 11:59pm**
-
-100-500 words
 
 Do you plan on continuing the project? What will you do with what you've learning?
 
